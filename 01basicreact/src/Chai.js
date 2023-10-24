@@ -1,6 +1,6 @@
 function Chai (){
     return(
-        <h2>Chai in react</h2>
+        <h2>Chai aur react</h2>
     )
 }
 
